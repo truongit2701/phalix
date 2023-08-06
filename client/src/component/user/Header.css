@@ -1,0 +1,30 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-nav {
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #dccece;
+}
+
+.header-nav .header-nav-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-nav .header-nav-center a {
+  margin-right: 8px;
+}
+
+.header-nav .logo-img {
+  max-width: 150px;
+}
+
+.icon-header {
+}

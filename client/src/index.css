@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@100;200;300;400;500;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 500 !important;
+  letter-spacing: 0.0555em !important;
+  font-size: 1em !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: #000 !important;
+}
+
+.icon {
+  font-size: 22px;
+}
+
+.btn {
+  color: black !important;
+  outline: none !important;
+  border-radius: 0px !important;
+  text-transform: uppercase !important;
+  font-size: 0.7em !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.0555em !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  border-bottom: 8px solid rgba(0, 0, 0, 0.1) !important;
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.bg-yellow {
+  background-color: rgb(255, 201, 82) !important;
+}
+
+.bg-red {
+  background-color: #ff7473 !important;
+}
+
+.bg-blue {
+  background-color: rgb(71, 184, 224) !important;
+}
+
+.bg-gray {
+  background-color: rgb(52, 49, 76) !important;
+}

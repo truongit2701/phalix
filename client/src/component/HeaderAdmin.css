@@ -1,0 +1,23 @@
+header{
+      background-color: rgb(235, 238, 240);
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+      align-items: center;
+}
+
+.logo{
+      font-size: 22px;
+      text-transform: capitalize;
+}
+
+nav{
+      display: flex;
+      gap: 25px;
+}
+
+nav a{
+      margin-right: 8px;
+      color: #000;
+      display: block;
+}

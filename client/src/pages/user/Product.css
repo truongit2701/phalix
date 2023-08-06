@@ -1,0 +1,19 @@
+.product-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  padding: 30px 0;
+}
+
+.product-list .product-item {
+  /* max-width: 300px; */
+}
+
+.product-list .product-item .product-item-img img {
+  width: 100%;
+}
+
+.heading {
+  font-size: 0.8rem;
+  color: rgb(74, 72, 72);
+}

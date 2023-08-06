@@ -1,0 +1,38 @@
+form .form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+form .form-group {
+  margin-bottom: 15px;
+}
+
+form .form-group label {
+  font-size: 1rem;
+  display: block;
+  padding: 5px 0;
+}
+
+form .form-group input {
+  padding: 8px 12px;
+  outline: none;
+  border: 1px solid black;
+  background-color: #f5f1f1;
+  border-radius: 2px !important;
+}
+
+form .form-group select {
+  padding: 8px 12px;
+  outline: none;
+  border: 1px solid black;
+  background-color: #f5f1f1;
+  border-radius: 2px !important;
+}
+
+form textarea {
+  padding: 8px 12px;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 2px !important;
+  background-color: #f5f1f1;
+}

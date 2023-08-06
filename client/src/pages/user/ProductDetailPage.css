@@ -1,0 +1,30 @@
+.product-detail-carousel {
+  flex-basis: 60%;
+}
+.product-detail-carousel img {
+  width: 100%;
+}
+.product-detail-info {
+  flex-basis: 40%;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.product-detail {
+  display: flex;
+  padding: 30px 0;
+}
+
+.product-detail-material {
+  margin-top: 15px;
+}
+
+.product-detail-size {
+  margin-top: 15px;
+}
+
+.product-detail button.btn {
+  font-size: 14px !important;
+  margin-right: 8px;
+}
